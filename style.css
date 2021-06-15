@@ -1,0 +1,9 @@
+body {
+	text-align:	center;
+	background-color:	#FFFFFF;
+	font-family:	sans-serif;
+}
+
+canvas.mobile {
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+}
